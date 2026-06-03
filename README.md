@@ -1,4 +1,4 @@
-# DCS World — Mission Message Editor
+# DCS World Mission Message Editor
 
 Десктопное приложение для редактирования локализованных сообщений в миссиях симулятора
 [Digital Combat Simulator World](https://www.digitalcombatsimulator.com/).
